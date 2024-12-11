@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m Implementaci√n_ejercicios_4_al_6
+git commit -m Implementacion√ deejercicios 7 y 8 asi como documentacion de los anteriores.
 git push

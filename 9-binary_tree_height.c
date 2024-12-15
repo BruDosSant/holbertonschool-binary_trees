@@ -1,5 +1,11 @@
 #include "binary_trees.h"
 
+/**
+ * binary_tree_height - mide altura arbol binario
+ * @tree: el primer nodo del arbol
+ * Return: altura como un size_t
+ */
+
 size_t binary_tree_height(const binary_tree_t *tree)
 {
 	size_t left = 0, right = 0;
